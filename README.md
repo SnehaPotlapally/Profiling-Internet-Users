@@ -8,7 +8,7 @@ internet usage of the other users.  We compared the results for each time window
 
 
 About project:
-We consider the dockets and duration of each user from the given files and then we will give the path of these files in the code to
+I considered the dockets and duration of each user from the given files and then we will give the path of these files in the code to
 calculate the spearman coefficient and P values of these 3 time windows for week 1 and 2 where one user is compared with every other user
 for all the 54 users is attached in the zip file as excel sheets and find the value of P(z) and the output must be written in the excel
 format. Here, We have to caluculate the P(z) values in the interval of 10sec, 227sec and 300sec.We are given the data and the data is 
